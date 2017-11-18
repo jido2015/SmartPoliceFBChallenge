@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "918797484478",
+    "firebase_url": "https://smart-police-842ce.firebaseio.com",
+    "project_id": "smart-police-842ce",
+    "storage_bucket": "smart-police-842ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918797484478:android:24dbddf5f27befb7",
+        "android_client_info": {
+          "package_name": "yct.smartpolicefbchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918797484478-8oja1qdjfim5ia2lphrh506g7h417htv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yct.smartpolicefbchallenge",
+            "certificate_hash": "05074c1ce297ec2ad77162ab091594c681d1ad12"
+          }
+        },
+        {
+          "client_id": "918797484478-tihnrb1kebqurodp3aodpjr84lmok8oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVI-MkJ5JdEqpcWgecjdvx8EtED8_Rq9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918797484478-tihnrb1kebqurodp3aodpjr84lmok8oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

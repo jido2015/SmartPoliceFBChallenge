@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Smart Police</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="facebook_app_id">376708619453434</string>
+    <string name="fb_login_protocol_scheme">fb376708619453434</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="logout">logout</string>
+
+
+    <string name="time_picker_title">choose time</string>
+    <string name="date_picker_title">choose date</string>
+    <string name="dialog_editDateOrTime">Edit date or time</string>
+    <string name="dialog_editDate">Date Picker</string>
+    <string name="dialog_editTime">Time Picker</string>
+
+
+
+        <string-array name="crime_array">
+            <item>Mercury</item>
+            <item>Venus</item>
+            <item>Earth</item>
+            <item>Mars</item>
+            <item>Jupiter</item>
+            <item>Saturn</item>
+            <item>Uranus</item>
+            <item>Neptune</item>
+        </string-array>
+
+
+</resources>
